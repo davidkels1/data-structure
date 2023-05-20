@@ -22,7 +22,7 @@ function findDistinctSum(set1, set2) {
   }
 
   return sum;
-}
+};
 
 //using the set given in the example
 const set1 = [3, 1, 7, 9];
